@@ -1,0 +1,191 @@
+/* Inserta tu codigo aqui */
+header {
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+
+.logo {
+	width: 80px;
+	height: 80px;
+}
+ 
+nav ul {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+nav li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+nav li:hover a {
+	background: #585858;
+
+}
+
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+nav a:hover {
+	color: #fff;
+}
+
+.image-sect {
+	border: solid grey 1px;
+	margin: 1px;
+	padding: 3px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+h4 {
+	font-family: Arial;
+	color: #508ABD;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.clase1 {
+	text-align: center;
+}
+
+h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: Arial;
+}
+
+.color {
+	background-color: #EEEEEE;
+	border-bottom: solid #C5C5C5 2px;
+	margin-top: -15px;
+	padding: 0.5%;
+}
+
+.imgsect {
+	border: solid grey 1px;
+	margin-top: 25px;
+	margin-bottom: 2px;
+	padding: 3px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+h5 {
+	font-family: Arial;
+	color: #508ABD;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.clase2 {
+	text-align: center;
+}
+
+h3 {
+	font-size: 17px;
+	color: #55555A;
+	font-family: Arial;
+	margin-bottom: 2px;
+
+}
+
+.line {
+	width: 230px;
+	border: solid #E1E1E1 1px;
+	margin-bottom: 17px;
+	margin-top: 2px;
+}
+
+.modified {
+	margin-top: 25px;
+}
+
+.sizingicon {
+	width: 12px;
+	height: 12px;
+}
+
+.icon {
+    color: #508ABD;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.side {
+	color: #508ABD;
+	text-decoration: none;
+}
+
+.single {
+	margin-top: 50px;
+}
+
+.single2{
+    margin-top: 25px;
+}
+
+ .colorcito {
+    background-color: #585858;
+    padding: 12px;
+}
+
+.parrafo {
+	font-family: Verdana;
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	width: 100%;
+	margin-top: 8px;
+
+}
+
+.last {
+	color: #94998A;
+	font-size: 18px;
+	text-align: center;
+	font-family: Arial;
+	margin-left: 2px;
+	margin-top: 100px;
+	padding-bottom: 10px;
+	
+}
+
+.navigator li{
+	text-align: center;
+	margin-left: 3px;
+	margin-right: 3px;
+	font-size: 15px;
+	text-transform: none !important;
+
+}
+
+.navigator ul {
+	margin-right:200px;
+	color: #CCCCCC;
+	margin-top: 5px;
+
+
+}
+ 
